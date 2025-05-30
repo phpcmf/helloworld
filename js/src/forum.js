@@ -1,0 +1,1 @@
+require('./forum/index');

@@ -1,0 +1,10 @@
+phpcmf-helloworld:
+  admin:
+    nav:
+      title: '你好世界'
+      description: '管理你的欢迎消息'
+    title: '你好世界设置'
+    settings:
+      title_label: '标题'
+      content_label: '内容'
+    saved_message: '你好世界设置已保存。'
