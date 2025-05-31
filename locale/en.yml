@@ -1,0 +1,13 @@
+phpcmf-hello-world:
+  admin:
+    nav:
+      title: 'Hello World'
+      description: '管理 Hello World 设置'
+    settings:
+      example_setting: '示例设置'
+  forum:
+    hello_world_page:
+      title: 'Hello World'
+      placeholder: '输入消息...'
+      send_button: '发送'
+      posted_by_text: '由 {user} 发布于 {time}'    
