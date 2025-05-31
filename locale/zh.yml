@@ -1,7 +1,7 @@
 phpcmf-hello-world:
   admin:
     nav:
-      title: 'Hello World'
+      title: 'Hello World 设置'
       description: '管理Hello World扩展设置'
     settings:
       example_setting: '示例设置'
